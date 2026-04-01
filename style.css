@@ -9,8 +9,8 @@ body{
 }
 
 .container{
-    background-color: rgb(86, 150, 165);
-    color: aliceblue;
+    background-color: rgb(77, 135, 148);
+    color: rgb(229, 239, 248);
     padding: 20px;
     border-radius: 15px;
 
@@ -19,5 +19,9 @@ body{
     width: 100%;
     font-size: 20px;
     height: 30px;
-    
+}
+
+.payment{
+    font-weight: 600;
+    font-size: 20px;
 }
